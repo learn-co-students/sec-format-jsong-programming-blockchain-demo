@@ -3,6 +3,8 @@
 
 It turns out there’s already a standard for serializing ECDSA public keys called SEC. SEC stands for Standards for Efficient Cryptography and as the name suggests, it’s got minimal overhead.
 
+![SEC Formats](./sec_format.png)
+
 
 ```python
 # SEC Example
